@@ -6,7 +6,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS
 
-- Checkout my [Portfolio](https://thecodervaibhav.github.io/)
+- Checkout my [Portfolio](https://raje2.github.io/)
 
 <a href="https://www.linkedin.com/in/vaibhavghawale15/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
@@ -17,8 +17,8 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <a href="https://leetcode.com/v_a_i_b_h_a_v/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode Logo" width="130px"/></a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=thecodervaibhav&left_color=blue&right_color=green) -->
-<!--   ![Visitor Count](https://profile-counter.glitch.me/thecodervaibhav/count.svg) -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=raje2&left_color=blue&right_color=green) -->
+<!--   ![Visitor Count](https://profile-counter.glitch.me/raje2/count.svg) -->
 
 <h2 align="left"><i>Tech Stack :</i></h2>
 <div align="left">
@@ -52,13 +52,13 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <h2 align="center">📊 My Github Stats</h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=indian-flag" alt="Vaibhav ghawale" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thecodervaibhav&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raje2&theme=indian-flag" alt="Vaibhav ghawale" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=raje2&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
 </div>
   
 </br>  
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=indian-flag" alt="vaibhav ghawale" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=thecodervaibhav&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raje2&layout=default&langs_count=8&hide=&theme=indian-flag" alt="vaibhav ghawale" height="275px" width="30%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=raje2&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div>
