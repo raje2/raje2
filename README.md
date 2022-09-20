@@ -8,14 +8,11 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - Checkout my [Portfolio](https://raje2.github.io/)
 
-<a href="https://www.linkedin.com/in/vaibhavghawale15/">
+<a href="https://www.linkedin.com/in/rajesh-pradhan-8627b8231/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
 
-<a href="https://www.hackerrank.com/vaibhavghawale01">
+<a href="https://www.hackerrank.com/jaikanhaiyalalk1">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="HackerRank Logo" width="130px"/></a>
-
-<a href="https://leetcode.com/v_a_i_b_h_a_v/">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode Logo" width="130px"/></a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=raje2&left_color=blue&right_color=green) -->
 <!--   ![Visitor Count](https://profile-counter.glitch.me/raje2/count.svg) -->
@@ -43,9 +40,9 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <!-- <h3 align="left">Connect with me:</h3> -->
 <h2 align="left"><i>Connect with me:</i></h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/vaibhav15/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vaibhavghawale007@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://twitter.com/VaibhavGhawale"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rajesh-pradhan-8627b8231/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rajeshpra673@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   
 </div>
 
 <br>
